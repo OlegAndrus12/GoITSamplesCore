@@ -1,6 +1,6 @@
 from turtle import circle
 
-
+#num_tuple = 2, 4, 5, 7, 8, 10
 my_tuple = (1, 1, 2, 3, 5, 8, 13, 21, 7, 5, 100)
 
 print(my_tuple[3])

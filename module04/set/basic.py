@@ -4,3 +4,4 @@ print("Daria" in my_set)
 
 my_set.remove("Daria")
 my_set.discard("Daria")  # нет ошибки при удалении не существующего элемента
+# https://realpython.com/python-sets/
