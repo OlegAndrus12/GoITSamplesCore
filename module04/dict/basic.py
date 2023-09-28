@@ -36,6 +36,15 @@ print(oleg.get("name", "anonim"))
 print(oleg.get("age", None))
 print(oleg.get("lang", "Python"))
 
+# Get or add an item using setdefault().
+employees = {1: 'Tom', 2: 'Macy', 3: 'Sam'}
+# If key is present, its value is returned without modifying.
+print(employees.setdefault(1, 'Max')) # Output: 'Tom'
+print(employees) # Output: {1: 'Tom', 2: 'Macy', 3: 'Sam'}
+# If key is not present, it is added to the dictionary.
+print(employees.setdefault(4, 'Lucy')) # Output: 'Lucy'
+print(employees) # Output: {1: 'Max', 2: 'Macy', 3: 'Sam', 4: 'Lucy'}
+
 # https://realpython.com/python-dicts/
 MLB_team = dict([
     ('Colorado', 'Rockies'),
@@ -83,6 +92,7 @@ sample_dict = {
     'emp2': {'name': 'Emma', 'salary': 8000},
     'emp3': {'name': 'Brad', 'salary': 500}
 }
+
 
 # Match key values in two dictionaries
 
