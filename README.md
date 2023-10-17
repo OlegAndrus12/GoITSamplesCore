@@ -21,3 +21,7 @@ Examples for Python Core course
 - [About python packaging](https://www.freecodecamp.org/news/build-your-first-python-package/)
 - [Pip commands list](https://opensource.com/sites/default/files/gated-content/cheat_sheet_pip.pdf)
 - [Have fun watching uncle bob](https://www.youtube.com/watch?v=7EmboKQH8lM&list=PLmmYSbUCWJ4x1GO839azG_BBw8rkh-zOj)
+- [Regex tutorial 1](https://github.com/abhirajshourya/Regex-Course/tree/main)
+- [Regex tutorial 2](https://github.com/michelleful/RegexTutorial/tree/master)
+- [Regex tutorial 3](https://github.com/nikhilkumarsingh/RegEx-In-Python/tree/master)
+- [Named tuple](https://realpython.com/python-namedtuple/)
