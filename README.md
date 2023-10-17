@@ -12,7 +12,6 @@ Examples for Python Core course
 - [Args and kwargs explained](https://www.programiz.com/python-programming/args-and-kwargs)
 - [Recursion vs Iteration 1](https://www.tutorialspoint.com/difference-between-recursion-and-iteration)
 - [Recursion vs Iteration 2](https://www.geeksforgeeks.org/difference-between-recursion-and-iteration/)
-![image](https://github.com/OlegAndrus12/GoITSamplesCore/assets/37078272/90d0e16c-f2e7-47c3-a80d-d6217ec77097)
 - [Next step after simple venv - poetry](https://python-poetry.org/)
 - [Codewars to have more practive](https://www.codewars.com/)
 - [More to watch and learn about regular expressions](https://www.youtube.com/watch?v=AEE9ecgLgdQ)
@@ -25,3 +24,5 @@ Examples for Python Core course
 - [Regex tutorial 2](https://github.com/michelleful/RegexTutorial/tree/master)
 - [Regex tutorial 3](https://github.com/nikhilkumarsingh/RegEx-In-Python/tree/master)
 - [Named tuple](https://realpython.com/python-namedtuple/)
+
+![image](https://github.com/OlegAndrus12/GoITSamplesCore/assets/37078272/90d0e16c-f2e7-47c3-a80d-d6217ec77097)
