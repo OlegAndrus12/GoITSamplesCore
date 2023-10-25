@@ -26,5 +26,9 @@ Examples for Python Core course
 - [Named tuple](https://realpython.com/python-namedtuple/)
 - [Decorators 1](https://vegibit.com/python-error-handling-decorator/)
 - [Generators and iterators](https://realpython.com/python-iterators-iterables/#creating-generator-iterators)
-- [Comprehensions vs filter/map/reduce](https://www.knowledgehut.com/blog/programming/python-map-list-comprehension#python%C2%A0any-list-comprehension%C2%A0(use-of-%22any%22-keyword)%C2%A0    )
+- [Comprehensions vs filter/map/reduce](https://www.knowledgehut.com/blog/programming/python-map-list-comprehension#python%C2%A0any-list-comprehension%C2%A0(use-of-%22any%22-keyword)%C2%A0)
+- [Classes in python](https://realpython.com/python-classes/)
+- [Getters and setters](https://www.codingninjas.com/studio/library/getter-and-setter-in-python)
+- [Class/static methods](https://realpython.com/instance-class-and-static-methods-demystified/)
+
 ![image](https://github.com/OlegAndrus12/GoITSamplesCore/assets/37078272/90d0e16c-f2e7-47c3-a80d-d6217ec77097)
